@@ -1,7 +1,7 @@
 # Tours-and-Travels-Management-System
 
 
-This is a Java application. This app concludes following features
+This is a Java application. This app contains following features
 ##Customer Part
 
     1.Customer can sign up and login.
